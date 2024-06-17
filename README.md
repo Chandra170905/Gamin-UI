@@ -1,5 +1,4 @@
-# Gamin-UI
-# Gammers Website
+# Gaming-UI
 
 ## Overview
 
